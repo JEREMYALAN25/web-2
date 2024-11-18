@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Vehiculo extends Model
 {
-    protected $fillable = ['tipo_de_vehiculo', 'categoria'];
+    protected $fillable = ['tipo_de_vehiculos', 'categorias'];
 
 }
